@@ -1,0 +1,12 @@
+[
+	{
+		"question":"Jak skutecznie jabłko?",
+		"points":1,
+		"answers":["Nie", "Tak", "Chyba", "Nie wiem"]
+	},
+	{
+		"question":"Jak zrobić z papieru?",
+		"points":2,
+		"answers":["No", "NJE", "Chuj", "Spadaj stąd dałnie"]
+	}
+]
